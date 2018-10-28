@@ -1,0 +1,107 @@
+a b c t d
+t a f s g
+h a k c d
+
+
+8
+2 10
+2 5
+8 4
+5 8
+6 4
+7 5
+1 2 
+4 9
+
+
+3
+3
+a b c
+a1
+b1
+y
+a2
+b1
+y
+a1
+b3
+n
+a1
+a
+b1
+b
+
+
+14
+5
+Age Income Student Credit Buys
+<=30
+High
+No
+Fair
+No
+<=30
+High
+No
+Excellent
+No
+31.40
+High
+No
+Fair
+Yes
+>40
+Medium
+No
+Fair
+Yes
+>40
+Low
+Yes
+Fair
+Yes
+>40
+Low
+Yes
+Excellent
+No
+31.40
+Low
+Yes
+Excellent
+Yes
+<=30
+Medium
+No
+Fair
+No
+<=30
+Low
+Yes
+Fair
+Yes
+>40
+Medium
+Yes
+Fair
+Yes
+<=30
+Medium
+Yes
+Excellent
+Yes
+31.40
+Medium
+No
+Excellent
+Yes
+31.40
+High
+Yes
+Fair
+Yes
+>40
+Medium
+No
+Excellent
+No
